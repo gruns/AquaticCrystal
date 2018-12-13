@@ -2,7 +2,7 @@
 
 A simulation illustrating the behavior of waves propagating through a crystal with band gaps in 1D and 2D. 
 Waves with a frequency within a band can propagate through the crystal, while waves with a frequency lying in a band gap are reflected.
-Inspired by the physics of photonic band gap crystal fibers.
+Inspired by the physics of [photonic band gap crystal fibers](https://en.wikipedia.org/wiki/Photonic-crystal_fiber).
 
 [2D animation:](https://www.youtube.com/watch?v=x6GVuuI3w0I)
 
